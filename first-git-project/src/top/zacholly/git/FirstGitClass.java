@@ -18,5 +18,6 @@ public class FirstGitClass {
         i++;
         //输出i
         System.out.println(i);
+        //shahahaha
     }
 }
