@@ -16,5 +16,7 @@ public class FirstGitClass {
     public void test1(){
         int i = 0;
         i++;
+        //输出i
+        System.out.println(i);
     }
 }
